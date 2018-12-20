@@ -1,5 +1,5 @@
 # MineSweeperSolver
-This is course project for my first semester subject Aartificial Intelligence
+This is the course project for my first semester subject Artificial Intelligence
 
 All of my code changes are in MyAI.java. All other code files were provided by the professor.
 
